@@ -1,0 +1,22 @@
+# Java
+*.class
+bin/
+out/
+build/
+
+# Node
+node_modules/
+dist/
+npm-debug.log
+
+# OS
+.DS_Store
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Other
+FINAL_DOCUMENTATION.html
+PBL_Template.txt

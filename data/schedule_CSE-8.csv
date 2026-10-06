@@ -1,0 +1,6 @@
+Timeslot,Room,Professor,Course
+TS1,Turing Hall,Prof AI1,AI CSE-8
+TS6,Turing Hall,Prof Alg2,Algorithms CSE-8
+TS11,Lovelace Room,Prof OS2,OS CSE-8
+TS12,Lovelace Room,Prof Net2,Networks CSE-8
+TS15,Lovelace Room,Prof DB2,Databases CSE-8
